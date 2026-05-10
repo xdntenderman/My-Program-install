@@ -2,7 +2,7 @@
 $scriptUrl = "LINK_RAW_SCRIPT_PS1_LU_DISINI"
 
 # 2. MASUKIN LINK DIRECT DOWNLOAD ZIP PROGRAM LU (Yang isinya .exe & MSOffice)
-$programsUrl = "LINK_ZIP_PROGRAM_LU_DISINI"
+$programsUrl = "https://github.com/xdntenderman/My-Program-install/releases/download/Package/Program-Installer.zip"
 
 # ==========================================
 # AUTO-ELEVATE ADMINISTRATOR
