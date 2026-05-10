@@ -1,5 +1,5 @@
 # 1. MASUKIN LINK RAW SCRIPT INI DI SINI BIAR BISA AUTO-ADMIN
-$scriptUrl = "LINK_RAW_SCRIPT_PS1_LU_DISINI"
+$scriptUrl = "https://raw.githubusercontent.com/xdntenderman/My-Program-install/refs/heads/main/run.ps1"
 
 # 2. MASUKIN LINK DIRECT DOWNLOAD ZIP PROGRAM LU (Yang isinya .exe & MSOffice)
 $programsUrl = "https://github.com/xdntenderman/My-Program-install/releases/download/Package/Program-Installer.zip"
